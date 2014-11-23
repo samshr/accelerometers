@@ -4,7 +4,7 @@ accelerometers
 ==================================================================
 Human Activity Recognition Using Smartphones Dataset
 ==================================================================
-Background : This is course project for Getting and Cleaning Data
+This is a course project for Getting and Cleaning Data
 ==================================================================
 
 Dataset : Dataset for this project is downloaded from course website using link below https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
